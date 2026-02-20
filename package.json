@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rapha-pereira/botavio-bot",
   "dependencies": {
-    "@google/clasp": "^2.4.2",
+    "@google/clasp": "^3.2.0",
     "@types/google-apps-script": "^1.0.76",
     "prettier": "^3.1.0"
   }
